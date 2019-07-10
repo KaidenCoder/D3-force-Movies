@@ -12,4 +12,4 @@
 
 ## INSTALLING PYTHON
 
-- Check if python is installed in your computer by typing python -V or py -V. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
+- Check if python is installed in your computer by typing `python -V` or `py -V`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
