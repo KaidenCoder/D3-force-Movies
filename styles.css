@@ -1,0 +1,32 @@
+svg {
+    border: 1px solid #ccc;
+}
+
+body {
+    font: 10px sans-serif;
+}
+
+circle.node {
+    fill: lightsteelblue;
+    stroke: #555;
+    stroke-width: 3px;
+    cursor: move;
+}
+
+path.hull {
+    fill: lightsteelblue;
+    fill-opacity: 0.5;
+}
+
+path.link {
+    fill: none;
+    stroke: #333;
+    stroke-opacity: 0.5;
+    pointer-events: none;
+}
+
+circle {
+    fill: #ccc;
+    stroke: #333;
+    stroke-width: 1.5px;
+}
